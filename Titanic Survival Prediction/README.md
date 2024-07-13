@@ -34,10 +34,10 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" style="margin: 0 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" style="margin: 0 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" style="margin: 0 6px;" />
-  <img src="/img/matplotlib.png" height="50" style="margin: 0 6px;" />
-  <img src="/img/seaborn.png" height="57" style="margin: 0 6px;" />
-  <img src="/img/plotly.png" height="65" style="margin: 0 6px;" />
-  <img src="/img/scikitlearn.png" height="65" style="margin: 0 6px;" />
+  <img src="img/matplotlib.png" height="50" style="margin: 0 6px;" />
+  <img src="img/seaborn.png" height="57" style="margin: 0 6px;" />
+  <img src="img/plotly.png" height="65" style="margin: 0 6px;" />
+  <img src="img/scikitlearn.png" height="65" style="margin: 0 6px;" />
 </span>
 
 </div>
