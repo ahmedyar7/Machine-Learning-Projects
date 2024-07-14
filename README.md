@@ -28,6 +28,11 @@ Welcome to the **Machine Learning Projects** repository! This repository contain
    - We analyze whether someone would click on the ad based on the given information.
    - **Tech Used:** Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scikit-learn
    - **Model Used:** Logistic Regression
+4. **💸 Loan Default Analysis**
+
+   - We analyze wether someone would default on there loan or not based upon the provided attributes.
+   - **Tech Used:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+   - **Model Used:** Decision Tree & Random Forest
 
 ## 📦 Dependencies
 
