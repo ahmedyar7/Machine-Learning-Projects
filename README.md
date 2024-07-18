@@ -10,7 +10,7 @@ Welcome to the **Machine Learning Projects** repository! This repository contain
 - [Contributing](#contributing)
 - [License](#license)
 
-## 💻 Projects
+## Projects
 
 1. **📈 Ecommerce Company Data**
 
@@ -34,7 +34,13 @@ Welcome to the **Machine Learning Projects** repository! This repository contain
    - **Tech Used:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
    - **Model Used:** Decision Tree & Random Forest
 
-## 📦 Dependencies
+5. **❤🩺 Heart Attack Prediction**
+
+   - We analyze wether someone would have a heart attact or not based upon different paramters like the cholestorl, exercise anginia
+   - **Tech Used:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+   - **Model Used:** All classification model with and without PCA
+
+## Dependencies
 
 - Python 3.x
 - Pandas
@@ -64,7 +70,7 @@ pip install pandas numpy matplotlib plotly seaborn scikit-learn
 
 </div>
 
-## ⚙️ Installation
+## Installation
 
 #### 📥 Clone the Repository
 
@@ -74,7 +80,7 @@ git clone https://github.com/ahmedyar7/Machine-Learning-Projects.git
 
 #### 📂 Navigate the Folder & Project file
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -84,6 +90,6 @@ Contributions are what make the open source community such an amazing place to l
 - Push to the Branch (`git push origin feature/AmazingFeature`)
 - Open a Pull Request
 
-## 📜 License
+## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
