@@ -40,6 +40,13 @@ Welcome to the **Machine Learning Projects** repository! This repository contain
    - **Tech Used:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
    - **Model Used:** All classification model with and without PCA
 
+6. **MNIST Hand Drawn digits Recoginition**
+
+   - I have made Number of Deep Convolution Neural Network to analyze and predict the Hand Drawn digits
+
+7. **Cats vs. Dog Classification Model**
+   - Cats vs dog classification model that is made using the knowlege of Convolutional neural network and Data Augmentation Techniques
+
 ## Dependencies
 
 - Python 3.x
@@ -49,23 +56,27 @@ Welcome to the **Machine Learning Projects** repository! This repository contain
 - Seaborn
 - Plotly
 - Scikit-Learn
+- Tensorflow
+- Keras
 
 ```sh
-pip install pandas numpy matplotlib plotly seaborn scikit-learn
+pip install pandas numpy matplotlib plotly seaborn scikit-learn keras tensorflow
 
 ```
 
 <div align="center">
 
 <span>
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" style="margin: 0 6px;" />
-  <img src="img/matplotlib.png" height="50" style="margin: 0 6px;" />
-  <img src="img/seaborn.png" height="57" style="margin: 0 6px;" />
-  <img src="img/plotly.png" height="65" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" style="margin: 0 10px;" />
+  <img src="img/seaborn.png" height="50" style="margin: 0 6px;" />
+  <img src="img/plotly.png" height="60" style="margin: 0 6px;" />
   <img src="img/scikitlearn.png" height="65" style="margin: 0 6px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="40" alt="keras logo" style="margin: 0 10px;" />
+  </span>
 </span>
 
 </div>
