@@ -45,7 +45,16 @@ Welcome to the **Machine Learning Projects** repository! This repository contain
    - I have made Number of Deep Convolution Neural Network to analyze and predict the Hand Drawn digits
 
 7. **Cats vs. Dog Classification Model**
+
    - Cats vs dog classification model that is made using the knowlege of Convolutional neural network and Data Augmentation Techniques
+
+8. **🧠 Custom ResNetSmall Image Classification**
+
+   - I designed and implemented a **custom ResNet-inspired deep convolutional neural network** from scratch in TensorFlow/Keras to classify images from the CIFAR-10 dataset.
+   - The architecture incorporates **residual identity blocks** to ease training of deep networks, **data augmentation layers** for robustness, and **dropout regularization** to prevent overfitting.
+   - **Tech Used:** TensorFlow, Keras, Numpy, Matplotlib, Seaborn, Scikit-learn
+   - **Model Used:** Custom Residual Network (**ResNetSmall**) with convolutional, batch normalization, identity mapping, and global average pooling layers.
+   - Achieved competitive accuracy on CIFAR-10 while keeping the architecture lightweight and efficient for experimentation.
 
 ## Dependencies
 
@@ -86,7 +95,7 @@ pip install pandas numpy matplotlib plotly seaborn scikit-learn keras tensorflow
 #### 📥 Clone the Repository
 
 ```
-git clone https://github.com/ahmedyar7/Machine-Learning-Projects.git
+git clone https://github.com/ahmedyar7/Machine-and-Deep-Learning-Projects.git
 ```
 
 #### 📂 Navigate the Folder & Project file
