@@ -81,7 +81,4 @@ pip install tensorflow numpy matplotlib scikit-learn
 - **Data augmentation** greatly reduces overfitting in small datasets.
 - A **lightweight ResNet** can still achieve competitive accuracy without going very deep.
 
----
 
-If you’d like, I can also create **the actual architecture diagram and training/validation plots** so you can drop them straight into this README for GitHub. That way it looks fully polished.
-Do you want me to prepare those?
